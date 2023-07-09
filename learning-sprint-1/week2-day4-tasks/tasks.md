@@ -1,7 +1,7 @@
 # Learning sprint (1), week (2), day (4) delieverable
 
-For this task, you need to complete the full section of Object Oriented
-Programming in FreeCodeCamp.com. Pictured below:
+For this task, you need to complete the [full section of Object Oriented
+Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) in FreeCodeCamp.com. Pictured below:
 
 ![fcc-oop-screenshot](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/assets/137787903/429a3ad2-f32a-468a-92fa-7d565b02d164)
 
@@ -15,7 +15,7 @@ If you don't already have an account, go ahead and sign up from
 After you sign up and log in, go to the [JavaScript Data Structures and
 Algorithms
 curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-and solve **ALL 26 exercises of the Object Oriented Programming section**.
+and solve **[ALL 26 exercises of the Object Oriented Programming section](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)**.
 
 Since 26 exercises are too many to be documented in github, we're allowing you
 to show us your progress on FCC instead.🖥️
