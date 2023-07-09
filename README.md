@@ -8,6 +8,6 @@
 
 [Learning sprint (1), week (2), day (2) delieverable](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md); 
 
-[Learning sprint (1), week (2), day (3) delieverable](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day2-tasks/tasks.md); 
+[Learning sprint (1), week (2), day (3) delieverable](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day3-tasks/tasks.md); 
 
 [Learning sprint (1), week (2), day (4) delieverable](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day4-tasks/tasks.md);
