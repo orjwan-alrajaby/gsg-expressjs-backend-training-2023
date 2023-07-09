@@ -1,13 +1,13 @@
 ## Question 1:
 
-You are given a function executeInSequenceWithCBs and some code. The task is to
-modify the executeInSequenceWithCBs function so that it runs and executes all
+You are given a function `executeInSequenceWithCBs` and some code. The task is to
+modify the `executeInSequenceWithCBs` function so that it runs and executes all
 the tasks inside the asyncTasks array. 
 
 The function should return an array of messages obtained from each task's
-execution. '
+execution.
 
-You are only allowed to change the executeInSequenceWithCBs function or add new
+You are only allowed to change the `executeInSequenceWithCBs` function or add new
 functions/code. You cannot modify the tasks' functions.
 
 ```javascript
@@ -39,9 +39,7 @@ const task5 = (cb) => setTimeout(() => {
 
 const asyncTasks = [task1, task2, task3, task4, task5];
 
-const executeInSequenceWithCBs = (tasks, callback) => {
-
-}
+const executeInSequenceWithCBs = (tasks, callback) => {}
 
 ```
 
