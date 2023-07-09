@@ -1,8 +1,10 @@
-# Task requirements
+# Learning sprint (1), week (1), day (5) delieverable
+
+## Task requirements
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
 
-## Requirements:
+### Requirements:
 
 - Use the Fetch API (in async/await format) to retrieve the character data from the following endpoint: `https://rickandmortyapi.com/api/character`.
 - Handle any potential errors that may occur during the API request and display an error message on the webpage if an error occurs.
