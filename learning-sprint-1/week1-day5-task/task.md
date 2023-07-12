@@ -1,4 +1,4 @@
-# Learning sprint (1), week (1), day (5) delieverable
+# Learning sprint (1), week (1), day (5) delieverables
 
 ## Task requirements
 

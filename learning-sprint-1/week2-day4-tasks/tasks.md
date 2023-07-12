@@ -1,4 +1,4 @@
-# Learning sprint (1), week (2), day (4) delieverable
+# Learning sprint (1), week (2), day (4) delieverables
 
 For this task, you need to complete the [full section of Object Oriented
 Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming) in FreeCodeCamp.com. Pictured below:

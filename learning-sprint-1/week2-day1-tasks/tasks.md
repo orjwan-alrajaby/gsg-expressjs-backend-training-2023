@@ -1,4 +1,4 @@
-# Learning sprint (1), week (2), day (1) delieverable
+# Learning sprint (1), week (2), day (1) delieverables
 
 ## Question 1: Functions and Callbacks
 
