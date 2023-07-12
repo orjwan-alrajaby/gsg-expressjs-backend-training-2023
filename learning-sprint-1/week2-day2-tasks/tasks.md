@@ -1,4 +1,4 @@
-# Learning sprint (1), week (2), day (2) delieverable
+# Learning sprint (1), week (2), day (2) delieverables
 
 ## Question 1:
 
