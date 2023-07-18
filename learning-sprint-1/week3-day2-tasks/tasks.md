@@ -1,4 +1,4 @@
-# Learning sprint (1), week (3), day (1) delieverables
+# Learning sprint (1), week (3), day (2) delieverables
 
 ## STATIC TYPING QUESTIONS:
 
