@@ -1,4 +1,4 @@
-# Learning sprint (1), week (3), day (2) delieverables
+# Learning sprint (1), week (3), day (3) delieverables
 
 ## Scope & Function Expressions:
 
