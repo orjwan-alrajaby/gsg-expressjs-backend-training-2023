@@ -4,7 +4,7 @@
 
 ### QUESTION #1
 
-Given the following promisesArray, convert the array into an object using the
+Given the following `promisesArray`, convert the array into an object using the
 `convertToObj` function.
 
 You should apply typescript types to every promise, the input of `convertToObj`,
