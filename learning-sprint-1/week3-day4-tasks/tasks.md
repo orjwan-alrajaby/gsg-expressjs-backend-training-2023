@@ -99,6 +99,8 @@ accessible through a closure. It should have two methods: `increment()` and
 
 -------------------------------------------------------------------
 
+## CLOSURE:
+
 ### QUESTION #2
 
 Write a JavaScript function called `generateFibonacci(count)` that returns a
